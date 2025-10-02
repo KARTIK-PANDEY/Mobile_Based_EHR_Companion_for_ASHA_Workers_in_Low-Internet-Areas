@@ -76,5 +76,31 @@ Our **Smart Health Companion App** supports:
 - **📊 Structured Data:** Clean records for decision-making & policy planning  
 - **🔗 Integration Ready:** Scalable to ABDM/NDHM health platforms  
 
+
+---
+
+## 📖 References
+- Varshney, P. et al. *Role of ASHAs in Indian public mental healthcare*, JFMPC 2022  
+- Mahmood, H. et al. *mHealth approaches for improving caregiver knowledge*, J Global Health 2020  
+- Garg, P. K. et al. *ASHA worker awareness in rural Haryana*, NJCM 2013  
+- Gopalakrishnan, L. et al. *ASHA + Anganwadi counseling and maternal outcomes*, PLOS Global Public Health 2024  
+- UNICEF Annual Report 2020 – Primary healthcare in remote India  
+- NITI Aayog – *Investment Opportunities in India’s Healthcare Sector*  
+- WHO Guidelines & National Health Mission (NHM), India  
+
+---
+
+## 🤝 Contributing
+We welcome contributions!  
+1. Fork the repository  
+2. Create a feature branch (`feature/xyz`)  
+3. Commit changes and push  
+4. Open a Pull Request  
+
+---
+
+## 📜 License
+This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for details.  
+
 ---
 
