@@ -93,7 +93,7 @@ Our **Smart Health Companion App** supports:
 ## 🤝 Contributing
 We welcome contributions!  
 1. Fork the repository  
-2. Create a feature branch (`feature/xyz`)  
+2. Create a feature branch
 3. Commit changes and push  
 4. Open a Pull Request  
 
