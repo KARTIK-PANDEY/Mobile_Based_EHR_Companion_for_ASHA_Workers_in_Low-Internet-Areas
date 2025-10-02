@@ -8,7 +8,7 @@
 
 ## 📌 Overview
 The **Mobile-based EHR Companion** is designed to empower **ASHA workers** and **Primary Health Centre (PHC) staff** in rural and low-internet regions.  
-It enables secure **offline-first data collection**, **automatic synchronization**, and **multilingual + voice support** to reduce paperwork, minimize errors, and improve patient outcomes.  
+It enables secure **offline-first data collection**, **automatic synchronization**, and **multilingual Language + voice support** to reduce paperwork, minimize errors, and improve patient outcomes.  
 
 ---
 
