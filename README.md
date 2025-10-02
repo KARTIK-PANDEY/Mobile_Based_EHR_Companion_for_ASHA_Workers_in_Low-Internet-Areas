@@ -78,4 +78,3 @@ Our **Smart Health Companion App** supports:
 
 ---
 
-## 📂 Repository Structure (Suggested)
