@@ -82,7 +82,7 @@ Our **Smart Health Companion App** supports:
 
 ## 🏗️ System Architecture
 
-![EHR App Architecture](assets/EHR_App_Architecture_Mermaid_Diagram.png)
+![EHR App Architecture](EHR_App_Architecture_Mermaid_Diagram.png)
 
 ### 🔎 Explanation
 The architecture is designed with an **offline-first, role-based flow** to support ASHA workers and PHC staff:
