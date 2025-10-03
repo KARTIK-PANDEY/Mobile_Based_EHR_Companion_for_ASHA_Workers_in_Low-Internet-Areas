@@ -80,6 +80,47 @@ Our **Smart Health Companion App** supports:
 
 ---
 
+## 🏗️ System Architecture
+
+![EHR App Architecture](assets/EHR_App_Architecture_Mermaid_Diagram.png)
+
+### 🔎 Explanation
+The architecture is designed with an **offline-first, role-based flow** to support ASHA workers and PHC staff:
+
+1. **App Launch & Authentication**
+   - User launches app → checks for stored session.  
+   - New users go through login/onboarding → select language → authenticate via mobile & OTP.  
+   - On success, redirected to respective **role-based dashboard** (ASHA or PHC).  
+
+2. **ASHA Worker Dashboard**
+   - **Urgent Tasks Card** → Tasks & reminders  
+   - **Maternal Health** → ANC/PNC visit logs  
+   - **Child Health & Communication** → Child health visit logs  
+   - **Community Services** → Disease screening & care  
+   - **Incentives & Reports** → Performance tracking & reports  
+   - **Resources & Help** → Knowledge materials  
+   - **Patient Registry** → Search patient records, register new patients  
+
+3. **PHC Staff Dashboard**
+   - **Cumulative Reports** → Aggregate village health records  
+   - **ASHA Performance** → Monitoring worker contributions  
+   - **Alerts & Flags** → High-risk patients, missed visits  
+   - **Manage ASHA Workers** → Assign tasks, training, & supervision  
+   - **Stock Management** → Medicines, vaccines tracking  
+   - **Settings & Support** → Admin utilities  
+
+4. **Cross-Cutting Features**
+   - **Offline-first local DB** → Works without internet  
+   - **Background sync** → Data auto-synced when online  
+   - **Multilingual & voice input** → Accessible to all workers  
+   - **Role-based access control** → ASHA vs PHC staff  
+   - **Notifications** → Timely reminders for follow-ups  
+
+This ensures **data accuracy, reduced paperwork, and real-time visibility** for both frontline health workers and supervisors.
+
+
+---
+
 ## 📖 References
 - Varshney, P. et al. *Role of ASHAs in Indian public mental healthcare*, JFMPC 2022  
 - Mahmood, H. et al. *mHealth approaches for improving caregiver knowledge*, J Global Health 2020  
