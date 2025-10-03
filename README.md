@@ -139,7 +139,6 @@ We welcome contributions!
 2. Create a feature branch
 3. Commit changes and push  
 4. Open a Pull Request
-5. create pull Request
 
 ---
 
