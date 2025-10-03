@@ -2,7 +2,8 @@
 
 **Smart India Hackathon 2025 — Problem Statement ID: SIH25219**  
 **Theme:** MedTech / BioTech / HealthTech  
-**Team Name:** Hack Slayer  
+**Team Name:** Hack Slayer
+**Team Leader:** **Kartik Pandey**
 
 ---
 
