@@ -22,6 +22,7 @@ ASHA workers face challenges in recording, maintaining, and transmitting patient
 ---
 
 ## 💡 Proposed Solution
+
 Our **Smart Health Companion App** supports:
 - ✅ **Offline-first design** with data syncing once connectivity is available  
 - ✅ **Voice input & multilingual support** for ease of use  
